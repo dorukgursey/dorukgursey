@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dorukgursey
 - 👀 I’m interested in Backend Web Development
-- 🌱 I’m currently learning Javascript,Node.js
-- 💞️ I’m looking to collaborate on Javascript related projects.
+- 🌱 I’m currently learning .NET Core
+- 💞️ I’m looking to collaborate on .NET Corerelated projects.
 - 📫 How to reach me dorukgursey@gmail.com
 
 <!---
