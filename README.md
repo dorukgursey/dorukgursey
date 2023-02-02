@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dorukgursey
-- 👀 I’m interested in Backend Web Development
-- 🌱 I’m currently learning .NET Core
-- 💞️ I’m looking to collaborate on .NET Corerelated projects.
+- 👀 I’m interested in Backend Development
+- 💞️ I’m looking to collaborate on .NET WEB API projects.
+- Working on Web API development.
 - 📫 How to reach me dorukgursey@gmail.com
 
 <!---
